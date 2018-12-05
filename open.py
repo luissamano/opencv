@@ -25,7 +25,7 @@ pip install "opencv_python-3.4.4+contrib-cp37-cp37m-win32.whl"
 import cv2
  
 # Cargamos la imagen del disco duro
-imagen = cv2.imread("images\logo.jpg")
+imagen = cv2.imread("images\img.jpg")
  
 cv2.imshow("prueba", imagen)
 cv2.waitKey(0)
