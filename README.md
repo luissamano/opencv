@@ -13,7 +13,7 @@ Instalar pip
 python -m pip install -U pip
 ```
 
-Actualizar pip, para mayor informacion puedes consultar la pagina oficial [pip.pypa.io] (https://pip.pypa.io/en/stable/installing/)
+Actualizar pip, para mayor informacion puedes consultar la pagina oficial [pip.pypa.io](https://pip.pypa.io/en/stable/installing/).
 ```
 python -m pip --upgrade -U pip
 ```
