@@ -1,0 +1,21 @@
+# Abrir el entorno de Anaconda
+"C:\ProgramData\Anaconda3\Scripts\activate.bat"
+
+# Verificar las versiones de Python y pip
+python -V
+pip -V
+
+# Instalar pip
+python -m pip install -U pip
+
+# Actualizar pip
+# Se requiere la versio 18.1
+python -m pip --upgrade -U pip
+
+# URL para descargar WHL de OpenCV
+http://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv
+
+# Instalar el archivo pip
+pip install "opencv_python-3.4.4+contrib-cp37-cp37m-win_amd64.whl"
+
+# Reiniciar PC
