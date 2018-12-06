@@ -67,3 +67,6 @@ while video.isOpened():
 # Destruye las ventanas y cierra el video
 cv2.destroyAllWindows()
 video.stop()
+
+
+#git push -u origin master
